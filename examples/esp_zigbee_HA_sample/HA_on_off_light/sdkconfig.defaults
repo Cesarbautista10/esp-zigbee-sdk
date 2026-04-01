@@ -29,3 +29,9 @@ CONFIG_ZB_ENABLED=y
 CONFIG_ZB_ZED=y
 # end of Zboss
 # end of Component config
+
+#
+# ESP Zigbee DevKit LED Configuration
+#
+CONFIG_GPIO_LED_ON_DEVKIT=8
+# end of ESP Zigbee DevKit LED Configuration
